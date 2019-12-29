@@ -61,7 +61,7 @@ pause(3)
 # Login to Poshmark
 pyautogui.moveTo(864,489)
 pyautogui.click(864,489)
-pyautogui.typewrite ('USERNAME')
+pyautogui.typewrite ('EMAIL')
 pause(.5)
 pyautogui.moveTo(864,547)
 pyautogui.click(864,547)
